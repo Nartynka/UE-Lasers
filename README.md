@@ -6,3 +6,7 @@ Portal meets Fireboy and Watergirl
 - `Mouse` to look around
 - `C` to change laser color
 
+## Gameplay
+
+https://github.com/Nartynka/UE-Lasers/assets/57597187/927964bb-1492-4b7b-b244-5dac936a4dff
+
