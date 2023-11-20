@@ -1,0 +1,24 @@
+.vscode/*
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+
+Binaries/*
+Build/*
+
+Saved/*
+
+# Compiled source files for the engine to use
+Intermediate/*
+
+# Cache files for the editor to use
+DerivedDataCache/*
+
+Content/__ExternalActors__
+Content/__ExternalObjects__
+
+Content/StarterContent
